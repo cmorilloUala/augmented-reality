@@ -3,127 +3,150 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 47857,
+      "count": 65532,
       "max": [
-        147.96614074707031,
-        30.161285400390625,
-        -220.76132202148438
+        1.905400037765503,
+        1.0339000225067139,
+        3.7037999629974365
       ],
       "min": [
-        -147.973876953125,
-        -67.67913818359375,
-        -333.58648681640625
+        -2.584199905395508,
+        -4.832399845123291,
+        0.7294999957084656
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 574284,
+      "byteOffset": 786384,
       "componentType": 5126,
-      "count": 47857,
+      "count": 65532,
       "max": [
-        0.99962127208709717,
-        0.99999910593032837,
-        0.99995452165603638
+        1.0,
+        1.0,
+        1.0
       ],
       "min": [
-        -0.99990475177764893,
-        -0.99999731779098511,
-        -0.99999362230300903
+        -1.0,
+        -1.0,
+        -1.0
       ],
       "type": "VEC3"
     },
     {
-      "bufferView": 3,
-      "componentType": 5126,
-      "count": 47857,
-      "max": [
-        0.99951463937759399,
-        0.99999082088470459,
-        0.99999940395355225,
-        1
-      ],
-      "min": [
-        -0.99995142221450806,
-        -0.99996393918991089,
-        -0.99999171495437622,
-        -1
-      ],
-      "type": "VEC4"
-    },
-    {
       "bufferView": 1,
       "componentType": 5126,
-      "count": 47857,
+      "count": 65532,
       "max": [
-        0.88666999340057373,
-        0.99989998340606689
+        0.9978029727935791,
+        0.9979079961776733
       ],
       "min": [
-        -9.0000003183376975e-06,
-        -7.9999999798019417e-06
+        0.002090000081807375,
+        0.4677560031414032
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 278736,
+      "count": 240750,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 11247,
       "max": [
-        47856
+        1.8590999841690063,
+        0.7922999858856201,
+        3.359999895095825
       ],
       "min": [
-        0
+        -2.614799976348877,
+        -4.519899845123291,
+        0.7505999803543091
       ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1707732,
+      "componentType": 5126,
+      "count": 11247,
+      "max": [
+        0.999822199344635,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9998788833618164,
+        -0.9988114833831787,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 11247,
+      "max": [
+        0.9973829984664917,
+        0.9257709980010986
+      ],
+      "min": [
+        0.03452099859714508,
+        0.5820180177688599
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 963000,
+      "componentType": 5125,
+      "count": 47175,
       "type": "SCALAR"
     }
   ],
   "asset": {
     "extras": {
-      "author": "James (https://sketchfab.com/james)",
-      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
-      "source": "https://sketchfab.com/models/9caebb53c2d14f2cad917c0531cd7d2c",
-      "title": "Shoe"
+      "author": "alban (https://sketchfab.com/alban)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/day-243-waterfall-abc802469b564113b104b1323c4c7eee",
+      "title": "Day 243: Waterfall"
     },
-    "generator": "Sketchfab-3.20.7",
+    "generator": "Sketchfab-11.60.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 1114944,
-      "byteOffset": 0,
+      "byteLength": 1151700,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 382856,
-      "byteOffset": 1114944,
+      "byteLength": 614232,
+      "byteOffset": 1151700,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 1148568,
-      "byteOffset": 1497800,
+      "byteLength": 1842696,
+      "byteOffset": 1765932,
       "byteStride": 12,
-      "name": "floatBufferViews",
-      "target": 34962
-    },
-    {
-      "buffer": 0,
-      "byteLength": 765712,
-      "byteOffset": 2646368,
-      "byteStride": 16,
       "name": "floatBufferViews",
       "target": 34962
     }
   ],
   "buffers": [
     {
-      "byteLength": 3412080,
+      "byteLength": 3608628,
       "uri": "scene.bin"
     }
   ],
@@ -132,48 +155,50 @@
   ],
   "images": [
     {
-      "uri": "White_baseColor.jpeg"
+      "uri": "textures/main_baseColor.jpeg"
     }
   ],
   "materials": [
     {
       "doubleSided": true,
-      "emissiveFactor": [
-        0,
-        0,
-        0
-      ],
       "extensions": {
         "KHR_materials_unlit": {}
       },
-      "name": "White",
+      "name": "main",
       "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          1,
-          1,
-          1,
-          1
-        ],
         "baseColorTexture": {
-          "index": 0,
-          "texCoord": 0
+          "index": 0
         },
-        "metallicFactor": 0,
-        "roughnessFactor": 1
+        "metallicFactor": 0.0
       }
     }
   ],
   "meshes": [
     {
+      "name": "Object_0",
       "primitives": [
         {
           "attributes": {
             "NORMAL": 1,
             "POSITION": 0,
-            "TANGENT": 2,
-            "TEXCOORD_0": 3
+            "TEXCOORD_0": 2
           },
-          "indices": 4,
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
           "material": 0,
           "mode": 4
         }
@@ -185,47 +210,40 @@
       "children": [
         1
       ],
-      "name": "RootNode (gltf orientation matrix)",
-      "rotation": [
-        -0.70710678118654746,
-        -0,
-        -0,
-        0.70710678118654757
-      ]
-    },
-    {
-      "children": [
-        2
-      ],
       "matrix": [
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        -1,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        258.41439819335938,
-        -295.93231201171875,
-        1
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
       ],
-      "name": "RootNode (model correction matrix)"
+      "name": "Sketchfab_model"
     },
     {
       "children": [
+        2,
         3
       ],
-      "name": "james-shoe.obj.cleaner.materialmerger.gles"
+      "name": "scaniverse-20210825-133158.obj.cleaner.materialmerger.gles"
     },
     {
       "mesh": 0,
-      "name": ""
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
     }
   ],
   "samplers": [
@@ -239,7 +257,7 @@
   "scene": 0,
   "scenes": [
     {
-      "name": "OSG_Scene",
+      "name": "Sketchfab_Scene",
       "nodes": [
         0
       ]
@@ -252,4 +270,3 @@
     }
   ]
 }
-
