@@ -17,10 +17,9 @@ import com.google.ar.sceneform.ux.TransformableNode
 
 class MainActivity : AppCompatActivity() {
     private lateinit var arFragment: ArFragment
-    private val modelLink = "https://github.com/cmorilloUala/augmented-reality/raw/master/model/fox.gltf"
+    private val modelLink = "https://github.com/cmorilloUala/augmented-reality/raw/master/model/scene.gltf"
     private lateinit var renderable: ModelRenderable
 
-    @RequiresApi(Build.VERSION_CODES.N)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
