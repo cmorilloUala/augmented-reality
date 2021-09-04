@@ -17,7 +17,7 @@ import com.google.ar.sceneform.ux.TransformableNode
 
 class MainActivity : AppCompatActivity() {
     private lateinit var arFragment: ArFragment
-    private val modelLink = "https://github.com/cmorilloUala/augmented-reality/raw/master/model/Fox.glb"
+    private val modelLink = "https://github.com/cmorilloUala/augmented-reality/raw/master/model/model.gltf"
     private lateinit var renderable: ModelRenderable
 
     override fun onCreate(savedInstanceState: Bundle?) {
